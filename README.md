@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on [Torero](https://github.com/hyphesus/GameJam-Repo)
 
-- 🌱 I’m currently learning **Unreal Engine 5 VR development**
-
 - 💬 Ask me about **2D Unity games**
-
-- 📫 How to reach me **[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/hyphesus)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
