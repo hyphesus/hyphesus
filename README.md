@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Berhan</h1>
-<h3 align="center">A passionate game dev from Turkey.</h3>
+<h3 align="center">A passionate game programmer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyphesus&label=Profile%20views&color=0e75b6&style=flat" alt="hyphesus" /> </p>
 
